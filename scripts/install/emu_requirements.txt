@@ -1,6 +1,6 @@
 grpcio==1.27.2
 grpcio-tools==1.27.2
-lxml==4.6.2
+lxml==4.6.3
 protobuf==3.9.1
 six==1.14.0
 netaddr==0.8.0
